@@ -27,8 +27,10 @@ This repository explores topic modeling techniques to uncover latent themes from
 
 ### Installation
 1. Clone this repository:
+```bash
    git clone https://github.com/Roi-Belson/Topic_Modeling.git
    cd Topic_Modeling
+  ```
 
 
 2. Install dependencies (you can create a virtual environment first if desired):  
