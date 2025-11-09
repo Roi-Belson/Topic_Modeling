@@ -2,7 +2,7 @@
 
 
 ## Overview  
-This repository explores topic modeling techniques to uncover latent themes from text corpora. Using the following unsupervised learning algorithms: Latent Dirichlet Allocation (LDA), Non-Negative Matrix Factorization (NMF) I extract meaningful topics from a news articles corpus and a WhatsApp group-chat containing more than three years of text in Hebrew.
+This repository explores topic modeling techniques to uncover latent themes from text corpora. By using unsupervised learning algorithms such as Latent Dirichlet Allocation (LDA), and Non-Negative Matrix Factorization (NMF) I extract meaningful topics from a news articles corpus and a WhatsApp group-chat containing more than three years of text in Hebrew.
 
 
 ## Contents  
