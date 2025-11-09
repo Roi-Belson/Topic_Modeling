@@ -38,10 +38,7 @@ This repository explores topic modeling techniques to uncover latent themes from
    pip install -r requirements.txt
    ```
 
-
-
-
-
-
-
+## Datasets  
+- **News Articles**: `valurank_News_Articles_Categorization.csv` — A dataset of news articles for classification into multiple categories.
+- **Whatsapp Group-Chat**: `Terr_Chat_2.txt ` - Over Three years of (censored) group chat in hebrew.
 
